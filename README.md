@@ -7,6 +7,7 @@ One of the biggest perks of choosing a career in coding is the ability to work r
 ## Tech Used / Shout-outs
 Front End: Bootstraps, JQuery
 API: Adzuna (https://developer.adzuna.com/overview), Teleport (https://developers.teleport.org/api/reference/#/)
+
 Database: Firebase
 
 
