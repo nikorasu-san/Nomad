@@ -2,6 +2,7 @@
 Nomad is a job search tool assistance tool that aggregates available jobs and quality of life details about the desired city.
 
 Live link - https://nikorasu-san.github.io/Nomad/
+
 Slide Show - https://docs.google.com/presentation/d/1afBZJEqXJkzAzakfy-_ehCX2mOW-KZ8jzEfjOg9tdSk/edit?usp=sharing
 
 ## Overview
